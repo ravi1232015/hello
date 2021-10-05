@@ -1,6 +1,6 @@
 
 print("Hello there!")
-name = str(input("Name: ")) 
+name = input("Name: ")
 print("Welcome To Addition")
 
 
